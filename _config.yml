@@ -1,6 +1,6 @@
 name: edgarholguin
 favicon: null
-layout_spectrum: 0.00091
+layout_spectrum: 0.24816
 typography_spectrum: 0.5683890592772514
 title: edgarholguin
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#1d1d1d'
+    - '#575757'
+    - '#8e8e8e'
+    - '#b1b1b1'
+    - '#f8f8f8'
   brandStrength: 0.5
   lightness: 0.9456976801156998
   saturation: 0.6875
